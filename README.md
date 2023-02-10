@@ -1,5 +1,5 @@
 ### Hi 👋 I'm jiro jasmin.
-I'm a junior French web developer and I'm currently looking for a job 👔  
+I'm a French junior web developer and I'm currently looking for a job 👔  
 I graduated a full-stack training program but I'm now working on building up my front-end skills with React and Next.js.  
 Feel free to reach me at florianj.giraud@gmail.com  
 Visit my LinkedIn: https://linkedin.com/in/jiro-jasmin
