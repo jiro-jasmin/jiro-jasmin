@@ -7,7 +7,7 @@ Visit my LinkedIn: https://linkedin.com/in/jiro-jasmin
 ## 🚀 Projects
 - 🔍 Please check my repositories: they all come with a ReadMe file, a video demo and a live demo.
 - 🔭 I’m currently working on a professional project using React, Next.js and Strapi (JAM Stack).
-- 🌱 I’m currently learning how to get around with the T3 stack and with Vite. I'm also planning to get some knowledge into Node.js.
+- 🌱 I’m currently learning how to get around with the T3 stack and with Vite. I'm also planning to get some knowledge regarding Node.js.
 
 ## 🔧 Skills & Technologies  
 - CSS: Sass (SCSS), PostCSS, BEM naming, Bootstrap, Tailwind 
