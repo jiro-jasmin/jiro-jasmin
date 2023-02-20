@@ -15,7 +15,7 @@ Visit my LinkedIn: https://linkedin.com/in/jiro-jasmin
 - LAMP/MAMP stack: JavaScript, Php, Symfony, Kirby, Wordpress, SQL, Merise methodology
 - Tools: Webpack, Parcel, jQuery
 - Design: Photoshop, Indesign, Balsamiq, Figma
-- Project management: Agile methogology, Scrum, Trello
+- Project management: Agile methodology, Scrum, Trello
 
 
 Thank you for visiting my profile!
