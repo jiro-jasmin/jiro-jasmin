@@ -2,7 +2,7 @@
 I'm a French junior web developer looking for a new position 👔  
 I graduated a full-stack training program but I'm now working on building up my front-end skills with React and Next.js.  
   
-**[👉 Check my portfolio here: jiro-jasmin.vercel.app 👈](https://jiro-jasmin.vercel.app)**
+**[👉 Check my portfolio here: jiro-jasmin.com 👈](https://www.jiro-jasmin.com)**
   
 ✉️ Feel free to reach me at [florianj.giraud@gmail.com](mailto:florianj.giraud@gmail.com), or [send me a message LinkedIn here](https://linkedin.com/in/jiro-jasmin).  
 
