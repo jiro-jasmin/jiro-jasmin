@@ -4,7 +4,7 @@ I graduated a full-stack training program but I'm now working on building up my 
   
 **[👉 Check my portfolio here: jiro-jasmin.com 👈](https://www.jiro-jasmin.com)**
   
-✉️ Feel free to reach me at [florianj.giraud@gmail.com](mailto:florianj.giraud@gmail.com), or [send me a message LinkedIn here](https://linkedin.com/in/jiro-jasmin).  
+✉️ Feel free to reach me at [florianj.giraud@gmail.com](mailto:florianj.giraud@gmail.com), or [send me a message on LinkedIn here](https://linkedin.com/in/jiro-jasmin).  
 
 ## 💻 Projects
 - Artist's Portfolio | JavaScript, php, Kirby | [Code](https://github.com/jiro-jasmin/Artist-s-portfolio) | [Live Demo](https://fabiolaamaudricduchaffaut.fr/) | [Video](https://youtu.be/9_cJaUuS97U)
