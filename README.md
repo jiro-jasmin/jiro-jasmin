@@ -9,9 +9,10 @@ I graduated a full-stack training program but I'm now working on building up my 
 
 ## 💻 Projects
   
+- Voice actress' portfolio | SCSS, React, Next.js, Strapi | [Code](https://github.com/jiro-jasmin/Voice-actress-portfolio) | [Live Demo](https://www.aileenwrozyna.de)
 - Blog | SCSS, React, Next.js, Strapi | [Code](https://github.com/jiro-jasmin/Blog) | [Video](https://youtu.be/pqqSpC_XyhI)
 - Pickify, music player | React, Next.js | [Code](https://github.com/jiro-jasmin/Pickify) | [Live Demo](https://pickify.vercel.app/) | [Video](https://youtu.be/YhD31XVDDns)
-- Portfolio, landing page | Tailwind, TypeScript, React, Next.js | [Code](https://github.com/jiro-jasmin/Portfolio-LandingPage) | [Live Demo](https://jiro-jasmin.vercel.app/)
+- My portfolio, landing page | Tailwind, TypeScript, React, Next.js | [Code](https://github.com/jiro-jasmin/Portfolio-LandingPage) | [Live Demo](https://jiro-jasmin.vercel.app/)
 - Artist's Portfolio | JavaScript, php, Kirby | [Code](https://github.com/jiro-jasmin/Artist-s-portfolio) | [Live Demo](https://fabiolaamaudricduchaffaut.fr/) | [Video](https://youtu.be/9_cJaUuS97U)
 - Hot Burgers e-commerce + admin panel | Bootstrap, JavaScript, php, SQL | [Code](https://github.com/jiro-jasmin/Hot-Burgers) | [Live Demo](https://hotburgers-berlin.000webhostapp.com/) | [Video](https://youtu.be/9IDCPDBPxUg)
 - La Pizza de Marseille, restaurant website | Bootstrap, php | [Code](https://github.com/jiro-jasmin/La-Pizza-de-Marseille) | [Live Demo](https://pizza-marseille.000webhostapp.com/) | [Video](https://youtu.be/646WPLIC8dY)
